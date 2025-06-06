@@ -1,4 +1,4 @@
-# Quick Train Times (QTT) Redirect
+# Quick Train Times (QTT) Demo
 
 shorter URL for Quick Train Times
 
